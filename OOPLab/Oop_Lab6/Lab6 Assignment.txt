@@ -1,0 +1,17 @@
+-Dört girişli bir menü oluşturmanız istenmektedir.
+1.Karekter sayısını say.
+2.İki kelime arasındaki ortak karakterleri bul.
+3.Cümleyi ArrayList'e dönüştür.
+4.Çıkış
+
+Kullanıcı menüden:
+1. seçeneği seçerse;
+  Kullanıcı tarafından girilen bir cümlenin karakter sayısını sayıp ekrana yazmaktadır.
+2. seçeneği seçerse;
+  Kullanıcı tarafından girilen iki kelime arasındaki ortak karakterleri  bulup ekrana yazmaktadır.
+3. seçeneği seçerse;
+  Kullanıcı tarafından girilen cümledeki kelimelerin her birini ArrayList içerisine yerleştirerek döngü kullanıp ekrana yazılmasını sağlamaktadır. Ekrana yazdırma şekli toString metodunun çıktısı ile aynı olması gerekmektedir.
+4. seçeneği seçerse;
+ program exit ile sonlanması gerekmektedir.
+
+Kullanıcı çıkış yapmadığı sürece program sürekli olarak menü kısmına geri dönmesi gerekmektedir.
