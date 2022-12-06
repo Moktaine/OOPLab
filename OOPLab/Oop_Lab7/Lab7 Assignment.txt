@@ -1,0 +1,14 @@
+Sinema adında bir sınıf tanımlayınız.
+Bu sınıfın özellikleri, SalonNo, ToplamKoltukSayisi, SatilanBiletSayisi,ToplamSatilanBiletSayisi  dir.
+Bu sınıfın metotları, BiletSat, BiletIptal, BosKoltukOgren, TumSatilanBiletSayisiniOgren dir.
+Bu sınıfın hem defatult constructor hemde 2 parametreli bir constructor a sahiptir.
+2 parametreli constructor SalonNo ve ToplamKoltukSayisi bilgilerini almaktadır.
+
+
+Kullanıcı her sinema için en az 3 obje(nesne) oluşturması gerekmektedir. 
+Oluşturulan nesnelerin hepsi 2 parametreli constructor ile çalışmaktadır.
+Oluşturulan tüm nesneler için tüm sınıf metotları kullanılması gerekmektedir.
+BiletSat metodu SatilanBiletSayisini 1 arttırmaktadır. (Not: ToplamSatilanBiletSayisi da 1 arttırması gerekir)
+BiletIptal metodu SatilanBiletSayisini 1 azaltmaktadır. (Not: ToplamSatilanBiletSayisi da 1 azaltması gerekir)
+BosKoltukOgren metodu ToplamKOltukSayisi ndan SatilanBiletSayisinin farkını bularak boş koltuk sayisini geri döndürmektedir.
+TumSatilanBiletSayisiniOgren metodu ToplamSatilanBiletSayisi değerini geri döndürmektedir.
